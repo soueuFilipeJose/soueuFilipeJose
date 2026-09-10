@@ -1,8 +1,8 @@
 <!-- FORA DE ÉPOCA — perfil pessoal. Edite este README diretamente ou use perfil.json + scripts/montar.py. -->
 
 <p align="center">
-  <img src="./assets/titulo.svg" width="960" alt="Fora de época. Velho hardware, ideias novas."><br>
-  <img src="./assets/criacao.png" width="960" alt="Quarto e oficina de um dev dos anos 90: computador CRT, fita cassete, grafite na parede e luz quente no fim da tarde.">
+  <img src="./assets/" width="960" alt="Fora de época. Velho hardware, ideias novas."><br>
+  <img src="./assets/criacao.png" width="960" alt="conexão: arte e tecnologia, releitura do quadro A Criação de Adão, de Michelangelo">
 </p>
 
 <p align="center">
@@ -19,18 +19,17 @@
 
 <br>
 
-<h2><img src="./assets/na-bancada.svg" width="310" alt="01 — Na bancada"></h2>
 
 ### Interfaces com personalidade
 
-Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo encaixar.
+Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo se encaixar.
 
 ### Ideias que viram ferramentas
 
 Testes com código e IA, automações e projetos que começam com um “será que dá?”.
 
 
-<p><sub>Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre.</sub></p>
+<p><sub>Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
 
 <br>
 
@@ -42,10 +41,9 @@ Testes com código e IA, automações e projetos que começam com um “será qu
 Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.
 
 <p align="center">
-  <img src="./assets/avatar-punk.png" width="180" alt="Monitor CRT ilustrado como um adesivo punk, com fita rosa, alfinete e uma faísca na tela.">
+  <img src="./assets/
 </p>
 
-<p align="center"><em>O computador mudou. A vontade de mexer em tudo, não.</em></p>
 
 </details>
 
