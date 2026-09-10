@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <strong>Um pé em 1996. O outro tentando instalar o presente.</strong>
+  <strong>e.</strong>
 </p>
 
-<p align="center">Estudante de TI. Gosto de construir coisas para a web, experimentar ideias e dar personalidade ao que aparece na tela.</p>
+<p align="center">Apaixonado pela arte e estudante da área de TI. Gosto de construir coisas para a web, experimentar ideias e dar personalidade ao que aparece na tela.</p>
 
 <p align="center">
   <a href="https://github.com/soueuFilipeJose?tab=repositories"><img src="./assets/botao-repos.svg" width="190" alt="Abrir meus repositórios"></a>
@@ -28,11 +28,6 @@ Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste
 ### Ideias que viram ferramentas
 
 Testes com código e IA, automações e projetos que começam com um “será que dá?”.
-
-### Mundos fora da tela
-
-RPG, criação de universos e sistemas para organizar histórias, regras e personagens.
-
 
 
 <p><sub>Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre.</sub></p>
