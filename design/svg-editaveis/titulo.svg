@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img">
+<title>Fora de época. Velho hardware, ideias novas.</title>
+<rect width="960" height="224" fill="#F2E7CC"/>
+<path d="M0 10H960 M24 43H936" stroke="#201F1A" stroke-width="2"/>
+<text x="26" y="31" fill="#201F1A" font-family="DejaVu Sans Mono" font-weight="400" font-size="14">CADERNO DE UM DEV</text>
+<text x="605" y="31" fill="#201F1A" font-family="DejaVu Sans Mono" font-weight="400" font-size="13">VOL. 01 / SEM DATA DE VALIDADE</text>
+<text x="22" y="157" fill="#201F1A" font-family="DejaVu Sans" font-weight="700" font-size="125" textLength="310" lengthAdjust="spacingAndGlyphs">FORA</text>
+<g transform="rotate(-5 406 113)">
+<path d="M342 69L454 64L464 149L349 156L352 145L342 142Z" fill="#E98B82"/>
+<text x="356" y="132" fill="#201F1A" font-family="DejaVu Sans" font-weight="700" font-size="64" textLength="88" lengthAdjust="spacingAndGlyphs">DE</text>
+</g>
+<text x="478" y="157" fill="#201F1A" font-family="DejaVu Sans" font-weight="700" font-size="119" textLength="450" lengthAdjust="spacingAndGlyphs">ÉPOCA.</text>
+<text x="27" y="197" fill="#201F1A" font-family="DejaVu Sans Mono" font-weight="400" font-size="16">VELHO HARDWARE. IDEIAS NOVAS.</text>
+<g transform="rotate(-3 822 186)"><rect x="735" y="174" width="190" height="31" fill="#201F1A"/>
+<text x="750" y="195" fill="#F2E7CC" font-family="DejaVu Sans Mono" font-weight="400" font-size="16">AINDA ONLINE</text>
+</g>
+<path d="M0 216L36 220L78 215L124 218L191 214L251 219L305 215L371 219L442 215L497 218L569 214L640 219L717 215L774 219L849 214L907 218L960 214V224H0Z" fill="#201F1A"/>
+</svg>

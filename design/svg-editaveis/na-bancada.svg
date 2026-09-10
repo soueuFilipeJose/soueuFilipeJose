@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="105" viewBox="0 0 620 105" role="img">
+<title>01 — Na bancada</title>
+<path d="M5 12L602 5L610 87L600 93L571 90L545 96L484 92L425 98L366 92L292 97L223 90L169 97L103 91L12 96Z" fill="#F2E7CC"/>
+<path d="M2 15L95 10L98 92L4 93Z" fill="#201F1A"/>
+<text x="17" y="68" fill="#E98B82" font-family="DejaVu Sans Mono" font-weight="400" font-size="47" textLength="62" lengthAdjust="spacingAndGlyphs">01</text>
+<path d="M114 78L543 75L541 85L118 87Z" fill="#E98B82"/>
+<text x="115" y="68" fill="#201F1A" font-family="DejaVu Sans" font-weight="700" font-size="52" textLength="420" lengthAdjust="spacingAndGlyphs">NA BANCADA</text>
+<path d="M574 25L580 43L598 47L581 54L577 75L570 55L552 49L569 42Z" fill="#201F1A"/>
+</svg>

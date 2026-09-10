@@ -1,0 +1,23 @@
+{
+  "usuario": "soueuFilipeJose",
+  "frase": "Um pé em 1996. O outro tentando instalar o presente.",
+  "bio": "Estudante de TI. Gosto de construir coisas para a web, experimentar ideias e dar personalidade ao que aparece na tela.",
+  "bancada": [
+    {
+      "titulo": "Interfaces com personalidade",
+      "texto": "Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo encaixar."
+    },
+    {
+      "titulo": "Ideias que viram ferramentas",
+      "texto": "Testes com código e IA, automações e projetos que começam com um “será que dá?”."
+    },
+    {
+      "titulo": "Mundos fora da tela",
+      "texto": "RPG, criação de universos e sistemas para organizar histórias, regras e personagens."
+    }
+  ],
+  "lado_b": "Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.",
+  "nota": "Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre.",
+  "projetos": [],
+  "contatos": []
+}

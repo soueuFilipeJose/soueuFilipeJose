@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="154" viewBox="0 0 960 154" role="img">
+<title>Fim do lado A. Vire a fita. Continue criando.</title>
+<path d="M0 12L61 8L124 13L201 7L271 11L347 6L425 10L484 7L560 12L636 6L701 12L774 7L857 11L915 6L960 9V154H0Z" fill="#201F1A"/>
+<g transform="rotate(-6 110 84)">
+<rect x="30" y="37" width="154" height="94" rx="6" fill="#F2E7CC"/><rect x="43" y="48" width="127" height="55" rx="4" fill="#E98B82"/>
+<rect x="53" y="64" width="106" height="26" rx="13" fill="#201F1A"/><g fill="#F2E7CC"><circle cx="69" cy="77" r="8"/><circle cx="143" cy="77" r="8"/></g><path d="M69 119L78 105H137L146 119Z" fill="#201F1A"/>
+</g>
+<text x="221" y="43" fill="#E98B82" font-family="DejaVu Sans Mono" font-weight="400" font-size="14">FIM DO LADO A</text>
+<text x="216" y="106" fill="#F2E7CC" font-family="DejaVu Sans" font-weight="700" font-size="69" textLength="546" lengthAdjust="spacingAndGlyphs">VIRE A FITA.</text>
+<text x="222" y="132" fill="#F2E7CC" font-family="DejaVu Sans Mono" font-weight="400" font-size="16">CONTINUE CRIANDO.</text>
+<path d="M837 50L814 85H843L825 115L886 71H852L872 50Z" fill="#E98B82"/>
+</svg>

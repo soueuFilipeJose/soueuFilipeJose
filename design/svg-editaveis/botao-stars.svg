@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="114" viewBox="0 0 400 114" role="img">
+<title>FAVORITOS</title>
+<path d="M9 15L391 11L397 108L15 111Z" fill="#201F1A"/>
+<path d="M3 5L383 3L389 98L6 102Z" fill="#F2E7CC" stroke="#201F1A" stroke-width="3"/>
+<path d="M87 19V87" stroke="#201F1A" stroke-width="2"/>
+<path d="M48 24L55 43L74 48L58 60L58 81L43 67L24 72L33 54L23 38L41 41Z" fill="#201F1A"/>
+<text x="106" y="34" fill="#201F1A" font-family="DejaVu Sans Mono" font-weight="400" font-size="15">02 / BONS ACHADOS</text>
+<text x="105" y="78" fill="#201F1A" font-family="DejaVu Sans" font-weight="700" font-size="38" textLength="231" lengthAdjust="spacingAndGlyphs">FAVORITOS</text>
+<path d="M353 57H373M364 48L373 57L364 66" fill="none" stroke="#201F1A" stroke-width="3"/>
+</svg>
