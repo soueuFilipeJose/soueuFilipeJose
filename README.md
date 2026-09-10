@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./assets/titulo.svg" width="960" alt="Fora de época. Velho hardware, ideias novas."><br>
-  <img src="./assets/quarto-punk.png" width="960" alt="Quarto e oficina de um dev dos anos 90: computador CRT, fita cassete, grafite na parede e luz quente no fim da tarde.">
+  <img src="./assets/criacao.png" width="960" alt="Quarto e oficina de um dev dos anos 90: computador CRT, fita cassete, grafite na parede e luz quente no fim da tarde.">
 </p>
 
 <p align="center">
