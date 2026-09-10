@@ -1,8 +1,8 @@
 <!-- FORA DE ÉPOCA — perfil pessoal. Edite este README diretamente ou use perfil.json + scripts/montar.py. -->
 
 <p align="center">
-  <img src="./assets/" width="960" alt="Fora de época. Velho hardware, ideias novas."><br>
-  <img src="./assets/criacao.png" width="960" alt="conexão: arte e tecnologia, releitura do quadro A Criação de Adão, de Michelangelo">
+  <img src="./assets/artifice.png" width="960" alt="artífice, graffiti"><br>
+  <img src="./assets/" width="960" alt="conexão: arte e tecnologia, releitura do quadro A Criação de Adão, de Michelangelo">
 </p>
 
 <p align="center">
