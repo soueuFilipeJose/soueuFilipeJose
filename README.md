@@ -12,6 +12,5 @@
 
 <img src="./assets/neon-footer.svg" width="100%" alt="Fim da transmissão" />
 
-<sub>© 198X–PRESENTE · SINAL TRANSMITIDO DIRETAMENTE DO FUTURO</sub>
 
 </div>
