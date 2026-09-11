@@ -4,7 +4,7 @@
   <img src="./assets/artifice.png" width="960" alt="artífice, graffiti"><br>
 </p>
 
-<p align="center">Apaixonado pela arte e estudante da área de TI. Gosto de construir coisas para a web, experimentar ideias e dar personalidade ao que aparece na tela.</p>
+<p align="center"><h4>Apaixonado pela arte e estudante da área de TI. Gosto de criar coisas, experimentar ideias e dar personalidade ao que aparece na tela.</h4></p>
 
 <p align="center">
   <a href="https://github.com/soueuFilipeJose?tab=repositories"><img src="./assets/botao-repos.svg" width="190" alt="Abrir meus repositórios"></a>
