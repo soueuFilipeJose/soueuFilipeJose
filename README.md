@@ -19,29 +19,19 @@
 <br>
 
 
-### Interfaces com personalidade
+# Interfaces com personalidade
 
 Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo se encaixar.
 
-### Ideias que viram ferramentas
+# Ideias que viram ferramentas
 
 Testes com código e IA, automações e projetos que começam com um “será que dá?”.
 
 
-<p><sub>Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
-
-<br>
-
-<details>
-  <summary><strong>LADO B</strong> — quando fecho o editor</summary>
-
-<br>
-
 Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.
+<p><sub>~Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
 
-<p align="center">
-  <img src="./assets/
-</p>
+
 
 
 </details>
