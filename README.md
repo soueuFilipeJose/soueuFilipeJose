@@ -4,10 +4,6 @@
   <img src="./assets/artifice.png" width="960" alt="artífice, graffiti"><br>
 </p>
 
-<p align="center">
-  <strong>e.</strong>
-</p>
-
 <p align="center">Apaixonado pela arte e estudante da área de TI. Gosto de construir coisas para a web, experimentar ideias e dar personalidade ao que aparece na tela.</p>
 
 <p align="center">
