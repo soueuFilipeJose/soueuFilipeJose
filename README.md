@@ -46,10 +46,4 @@ Computadores antigos, desenho, mundos inventados e a vontade de entender como as
 
 </details>
 
-
-
-<br>
-
-<p align="center">
-  <img src="./assets/rodape.svg" width="960" alt="Fim do lado A. Vire a fita. Continue criando.">
 </p>
