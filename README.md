@@ -33,3 +33,6 @@ Computadores antigos, desenho, mundos inventados e a vontade de entender como as
 </details>
 
 </p>
+<p align="center">
+  <img src="./assets/espectro-punk.svg" width="960" alt="Analisador de espectro animado em preto e branco, pulsando em um ritmo punk de 190 BPM.">
+</p>
