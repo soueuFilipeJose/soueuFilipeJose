@@ -4,7 +4,8 @@
   <img src="./assets/artifice.png" width="960" alt="artífice, graffiti"><br>
 </p>
 
-<p align="center"><h4>Apaixonado pela arte e estudante da área de TI. Gosto de criar coisas, experimentar ideias e dar personalidade ao que aparece na tela.</h4></p>
+<p align="center"><h4>
+  Olá mundo, meu nome é Filipe, sou um fleumático apaixonado pela arte e pela tecnologia, e claro estudante da área de TI. Gosto de criar coisas, experimentar ideias e aprender fazendo isso, e dar personalidade ao que aparece na tela.</h4></p>
 
 <p align="center">
   <a href="https://github.com/soueuFilipeJose?tab=repositories"><img src="./assets/botao-repos.svg" width="190" alt="Abrir meus repositórios"></a>
