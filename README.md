@@ -20,10 +20,13 @@
 
 Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo se encaixar.
 
-# Ideias que viram ferramentas
-
-Testes com código e IA, automações e projetos que começam com um “será que dá?”.
-
+# Ideias que viram repositórios
+<ul>
+<li>Testes com código e IA;</li>
+<li>Projetos desenvolvidos na sala de aula;</li>
+<li>Estudos complexos;</li>
+<li>Automações e projetos que começam com um “será que dá?”.</li>
+</ul>
 
 Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.
 <p><sub>~Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
