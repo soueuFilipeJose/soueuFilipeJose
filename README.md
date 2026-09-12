@@ -30,10 +30,6 @@ Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste
 
 Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.
 <p><sub>~Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
-
-
-
-
 </details>
 
 </p>
