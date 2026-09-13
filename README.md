@@ -34,7 +34,7 @@ Computadores antigos, desenho, mundos inventados e a vontade de entender como as
 
 <p align="center">
   <img
-    src="./assets/espectro-punk-25.svg"
+    src="./assets/espectro-punk-35.svg"
     width="960"
     alt="Analisador de espectro punk em preto e branco"
   >
