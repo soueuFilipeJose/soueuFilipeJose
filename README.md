@@ -32,7 +32,10 @@ Computadores antigos, desenho, mundos inventados e a vontade de entender como as
 <p><sub>~Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
 </details>
 
-</p>
 <p align="center">
-  <img src="./assets/espectro-punk.svg" width="960" alt="Analisador de espectro animado em preto e branco, pulsando em um ritmo punk de 190 BPM.">
+  <img
+    src="./assets/espectro-punk.svg"
+    width="960"
+    alt="Analisador de espectro punk em preto e branco"
+  >
 </p>
