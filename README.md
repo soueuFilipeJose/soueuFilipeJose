@@ -1,11 +1,12 @@
 <!-- FORA DE ÉPOCA — perfil pessoal. Edite este README diretamente ou use perfil.json + scripts/montar.py. -->
 
 <p align="center">
-  <img src="./assets/artifice.png" width="960" alt="artífice, graffiti"><br>
+  <img src="./assets/artifice.png" width="960" alt="Grafite preto e branco com a palavra Artífice"><br>
 </p>
 
-<p align="center"><h4>
-  Olá mundo, meu nome é Filipe, sou um fleumático apaixonado pela arte e pela tecnologia, e claro estudante da área de TI. Gosto de criar coisas, experimentar ideias e aprender fazendo isso, e dar personalidade ao que aparece na tela.</h4></p>
+<h4 align="center">
+  Olá mundo, meu nome é Filipe, sou um fleumático apaixonado pela arte e pela tecnologia, e claro estudante da área de TI. Gosto de criar coisas, experimentar ideias e aprender fazendo isso, e dar personalidade ao que aparece na tela.
+</h4>
 
 <p align="center">
   <a href="https://github.com/soueuFilipeJose?tab=repositories">
@@ -30,7 +31,6 @@ Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste
 
 Computadores antigos, desenho, mundos inventados e a vontade de entender como as coisas funcionam. Gosto de projetos que deixam aparecer a personalidade de quem os fez.
 <p><sub>~Tem coisa pronta, coisa em teste e coisa esperando uma tarde livre...</sub></p>
-</details>
 
 <p align="center">
   <img
