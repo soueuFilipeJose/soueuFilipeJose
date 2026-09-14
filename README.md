@@ -8,7 +8,7 @@
   Olá mundo, meu nome é Filipe, sou um fleumático apaixonado pela arte e pela tecnologia, e claro estudante da área de TI. Gosto de criar coisas, experimentar ideias e aprender fazendo isso, e dar personalidade ao que aparece na tela.</h4></p>
 
 <p align="center">
-  <a href="https://github.com/soueuFilipeJose?tab=repositories"><img src="./assets/botao-repos.svg" width="190" alt="Abrir meus repositórios"></a>
+  <a href="https://github.com/soueuFilipeJose?tab=repositories"><img src="./assets/botao-repos-punk.svg" width="190" alt="Abrir meus repositórios"></a>
   &nbsp;
   <a href="https://github.com/soueuFilipeJose?tab=stars"><img src="./assets/botao-stars.svg" width="190" alt="Ver repositórios que favoritei"></a>
 </p>
