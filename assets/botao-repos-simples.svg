@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">Repositórios</title>
+  <desc id="desc">Botão preto e branco para abrir os repositórios.</desc>
+
+  <path d="M9 13L508 8L514 106L12 113Z"
+        fill="#050505" stroke="#ffffff" stroke-width="7" stroke-linejoin="bevel"/>
+
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="bevel">
+    <path d="M27 39H45L52 30H80L87 84H27Z"/>
+    <path d="M43 49V72M43 60H70M70 49V72"/>
+  </g>
+  <g fill="#050505" stroke="#ffffff" stroke-width="4">
+    <circle cx="43" cy="49" r="5"/>
+    <circle cx="43" cy="72" r="5"/>
+    <circle cx="70" cy="60" r="5"/>
+  </g>
+
+  <text x="105" y="75"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="900"
+        letter-spacing="1"
+        textLength="375"
+        lengthAdjust="spacingAndGlyphs">REPOSITÓRIOS</text>
+
+  <path d="M105 89L474 84" stroke="#ffffff" stroke-width="6" stroke-linecap="square"/>
+  <path d="M123 98L453 93" stroke="#ffffff" stroke-width="2" opacity=".75"/>
+
+  <circle cx="18" cy="22" r="3" fill="#ffffff"/>
+  <circle cx="497" cy="96" r="4" fill="#ffffff"/>
+  <path d="M484 22L500 35M499 20L485 37" stroke="#ffffff" stroke-width="4"/>
+</svg>
