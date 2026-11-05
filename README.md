@@ -17,11 +17,7 @@
 <br>
 
 
-# Interfaces com personalidade
-
-Sites, pequenos sistemas e experiências visuais. Do primeiro rascunho ao ajuste que faz tudo se encaixar.
-
-# Ideias que viram repositórios
+# Ideias que viram Repositórios
 <ul>
 <li>Testes com código e IA;</li>
 <li>Projetos desenvolvidos na sala de aula;</li>
