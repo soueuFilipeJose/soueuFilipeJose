@@ -1,7 +1,7 @@
 <!-- FORA DE ÉPOCA — perfil pessoal. Edite este README diretamente ou use perfil.json + scripts/montar.py. -->
 
 <p align="center">
-  <img src="./assets/artifice.png" width="960" alt="Grafite preto e branco com a palavra Artífice"><br>
+  <img src="<br>
 </p>
 
 <h4 align="center">
